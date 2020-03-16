@@ -6,7 +6,7 @@ var aboutMeStyle = {
 }
 
 var backgroundStyle = {
-	backgroundImage: "url(" + process.env.PUBLIC_URL + "images/about-1.jpg)"
+	backgroundImage: "url(" + process.env.PUBLIC_URL + "/images/about-1.jpg)"
 }
 
 var style1 = {

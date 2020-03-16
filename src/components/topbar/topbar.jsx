@@ -1,6 +1,6 @@
 import React from 'react';
 
-var resume = process.env.PUBLIC_URL + "docs/resume.pdf";
+var resume = process.env.PUBLIC_URL + "/docs/resume.pdf";
 
 class TopBar extends React.Component {
     render() {

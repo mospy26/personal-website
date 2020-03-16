@@ -1,7 +1,7 @@
 import React from 'react';
 // import background from process.env.PUBLIC_URL + "images/bg_1.jpg";
 
-var background = process.env.PUBLIC_URL + "images/me.png"
+var background = process.env.PUBLIC_URL + "/images/me.png"
 var backgroundimage = {
     backgroundImage: "url(" + background + ")"
 };
