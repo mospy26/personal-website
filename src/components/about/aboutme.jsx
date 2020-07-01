@@ -31,7 +31,7 @@ class AboutMe extends React.Component {
 								<div class="row justify-content-start pb-3">
 									<div class=" align-items-center col-md-12 ftco-animate fadeInUp ftco-animated heading-section" data-scrollax=" properties: { translateY: '70%' }" style={ style1 }>
 										<h2 class="mb-4" style={ aboutMeStyle }>About Me</h2>
-										<p>As an ambitious software professional, I am seeking opportunities in cyber security, artificial intelligence and database systems that could allow me to deploy my skills to the benefit of my employer organization and offer an environment of professional growth.</p>
+										<p>As an ambitious software professional, I am seeking opportunities in software development and security engineering that could allow me to deploy my skills to the benefit of my employer organization and offer an environment of professional growth.</p>
 									</div>
 								</div>
 							</div>
