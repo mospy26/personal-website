@@ -28,7 +28,7 @@ class Intro extends React.Component {
                                 <div class="text">
                                     <span class="subheading">Hello</span>
                                     <h1 class="mb-4 mt-3">I'm <span>Mustafa Fulwala</span></h1>
-                                    <h2 class="mb-4">A Final year Software Engineering Student</h2>
+                                    <h2 class="mr-4">A Final year Software Engineering Student</h2>
                                 </div>
                             </div>
                             </div>
